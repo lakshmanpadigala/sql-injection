@@ -20,4 +20,4 @@ To deploy this project run
 	
 4.Add external jar file "mysql-connector-java-8.0.28.jar" to project library section as per the IDE rules. 
 
-5. Then run the application from "login_page.java" as the main function located there.
+5.Then run the application from "login_page.java" as the main function located there.
